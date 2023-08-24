@@ -1,4 +1,4 @@
-#Hi there 👋
+# Hi there 👋
 - 🪧 My name is Mino
 - 🔞 20 years old
 - 💻 Frontend Developer
