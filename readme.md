@@ -1,6 +1,6 @@
 # Hi there 👋
 - 🪧 My name is Mino
-- 🔞 20 years old
+- 🔞 21 years old
 - 💻 Frontend Developer
 - 📞 Discord: [@miinoo_](https://discord.gg/BrH5UhXVR5)
 
